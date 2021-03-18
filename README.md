@@ -6,3 +6,6 @@
 - Also i'd be glad if you checked out some of my projects and left a feedback😃
 
 ### My Stack
+- Javascript
+- React
+- HTML and CSS
