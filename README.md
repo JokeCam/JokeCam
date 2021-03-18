@@ -1,10 +1,10 @@
 ## Hi there!
 
 ### Bio
-- I'm just starting to learn this vast world of web development.
+- I'm a beginner frontend developer and just starting to learn this vast world of code
 - Looking forward to working with similar minded people and imporving my skills
-- Also i'd be glad if you checked out some of my projects and left a feedback😃
 - My hobbies are: playing video games and cycling(fixie)
+- Also i'd be glad if you checked out some of my projects and left a feedback😃
 
 ### My Stack
 - Javascript
