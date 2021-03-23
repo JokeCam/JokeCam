@@ -12,6 +12,6 @@
 - HTML and CSS
 
 ### My Contacts
-Email: infleshlightwetrust@gmail.com
-Telegram: @mrstas2000
-VK: /whysosirious
+- Email: infleshlightwetrust@gmail.com
+- Telegram: @mrstas2000
+- VK: /whysosirious
