@@ -1,17 +1,17 @@
-## Hi there!
+## Здравствуй!
 
-### Bio
-- I'm a beginner frontend developer and just starting to learn this vast world of code
-- Looking forward to working with similar minded people and imporving my skills
-- My hobbies are: playing video games and cycling(fixie)
-- Also i'd be glad if you checked out some of my projects and left a feedback😃
+### Био
+- Я начинающий веб разработчик и только начал изучать этот огромный мир кода.
+- Жду с нетерпением работать в команде с другими разработчиками и прокачивать свои умения.
+- Я геймер с опытом и люблю ездить на велосипеде(фикс)
+- И еще, я был бы рад если бы вы заглянули в мои проекты и оставили свой фидбек😃
 
-### My Stack
+### Мой стек
 - Javascript
 - React
 - HTML and CSS
 
-### My Contacts
+### Контакты
 - Email: infleshlightwetrust@gmail.com
 - Telegram: @mrstas2000
 - VK: /whysosirious
