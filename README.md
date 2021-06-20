@@ -11,6 +11,7 @@
 - Javascript
 - React
 - HTML and CSS
+- Git
 
 ### Contacts
 - Email: ssmayka@gmail.com
