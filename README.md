@@ -9,7 +9,7 @@
 
 ### Stack
 - Javascript
-- React
+- React, Redux
 - HTML and CSS
 - Git
 
