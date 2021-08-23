@@ -2,7 +2,6 @@
 
 ### Bio
 - I'm just starting to learn this vast world of code.
-- Currently working as a Junior Web developer.
 - I like to upgrade current and develop new skills.
 - In my spare time i love playing video games and go cycling.
 - Also, I would be glad if you check out my repos and leave a feedback😃
