@@ -8,8 +8,9 @@
 ### Stack
 - Javascript
 - ReactJS, Redux
-- ExpressJS
 - HTML and CSS
+- ExpressJS
+- MongoDB
 - Git
 
 ### Contacts
