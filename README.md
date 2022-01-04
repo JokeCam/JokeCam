@@ -9,6 +9,7 @@
 - Javascript
 - ReactJS, Redux
 - HTML and CSS
+- NodeJS
 - ExpressJS
 - MongoDB
 - Git
