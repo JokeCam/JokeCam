@@ -1,7 +1,7 @@
 ## Hello
 
 ### Bio
-- I'm just starting to learn this vast world of code.
+- Experienced web developer.
 - I like to upgrade current and develop new skills.
 - In my spare time I love playing video games.
 
