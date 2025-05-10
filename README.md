@@ -7,10 +7,12 @@
 
 ### Stack
 - Javascript
-- ReactJS, Redux
+- Angular
+- ReactJS
 - HTML and CSS
 - NodeJS
 - ExpressJS
+- .Net
 - MongoDB
 - Git
 
