@@ -13,6 +13,7 @@
 - NodeJS
 - ExpressJS
 - .Net
+- SQL
 - MongoDB
 - Git
 
